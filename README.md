@@ -1,8 +1,12 @@
-[README.md](https://github.com/user-attachments/files/29608313/README.md)
 # 🎬 YouTube Frame Interleaving (60 FPS / 2x Speed)
 
-[![Смотреть пример работы](https://img.youtube.com/vi/EUDr_UJUibU/maxresdefault.jpg)](https://youtu.be/EUDr_UJUibU)
-
+<br>
+   
+   [![Смотреть пример работы](https://img.youtube.com/vi/EUDr_UJUibU/maxresdefault.jpg)](https://youtu.be/EUDr_UJUibU)
+   
+   <br>
+   
+   ---
 Этот скрипт позволяет объединить два разных видеофайла в один с помощью метода **Frame Interleaving** (чередования кадров). 
 Суть эффекта заключается в том, что при загрузке итогового видео на YouTube:
 - При просмотре в стандартном качестве (30 FPS) зритель будет видеть только **первое видео**.
